@@ -1,1 +1,1 @@
-# Maze-Compilation-Game
+# Maze-Completion-Game
